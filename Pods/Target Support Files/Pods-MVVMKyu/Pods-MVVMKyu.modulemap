@@ -1,0 +1,6 @@
+framework module Pods_MVVMKyu {
+  umbrella header "Pods-MVVMKyu-umbrella.h"
+
+  export *
+  module * { export * }
+}

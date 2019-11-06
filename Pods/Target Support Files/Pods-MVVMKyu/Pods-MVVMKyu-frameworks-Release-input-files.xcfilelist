@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MVVMKyu/Pods-MVVMKyu-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
